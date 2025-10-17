@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-### 📑 My latest blog post:
+### 📑 Some of my blog posts:
 - [Succeed at ‘Machine Learning DevOps Engineer ‘ with Udacity](https://alibinkowska.co/machine-learning-devops-engineer/)
-- [‘AI for Business Leaders’ with Udacity: Future of Business with Artificial Intelligence](https://alibinkowska.co/ai-for-business-leaders/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
