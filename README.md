@@ -15,9 +15,9 @@ uses. I work as a solo AI builder at [Nexi8](https://nexi8.pl) in Wrocław, Pola
 - [Succeed at 'Machine Learning DevOps Engineer' with Udacity](https://alibinkowska.co/machine-learning-devops-engineer/)
 
 ## Background
-Master of Mathematics (Computer Science), University of Lodz. A background in IT
-operations and delivery management, then product management for AI products and
-a startup.
+Master of Mathematics (Computer Science), University of Lodz. I started in IT
+operations and delivery management and now build AI systems hands-on: document
+pipelines, agents and automations in Python.
 
 ## Find me
 [nexi8.pl](https://nexi8.pl) · [alibinkowska.co](https://alibinkowska.co) ·
